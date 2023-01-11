@@ -15,7 +15,7 @@ server.use("/budgets", budgetsController);
 
 
 server.get("/", (req, res) => {
-    res.json({test: 'hello'});
+    res.json("Welcome to Budgets backend data, use '/budgets' endpoint for more");
 });
 
 server.get("*", (req, res) => {
