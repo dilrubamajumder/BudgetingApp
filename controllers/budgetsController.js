@@ -27,6 +27,8 @@ budgets.get('/:index', ( req, res ) => {
 budgets.post('/', ( req,res ) => {
     req.body.id = uuidv4()
     budgetsArray.push(req.body)
+    console.log(req.body)
+    
     res.json(budgetsArray.at(-1))
 })
 

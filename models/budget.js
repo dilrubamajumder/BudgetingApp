@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: "",
-    date: "03-07-2022",
+    date: "2022=03-07",
     item_name: "Cash-App",
     amount: 700,
     from: "Business",
@@ -10,7 +10,7 @@ module.exports = [
 
   {
     id: "",
-    date: "07-06-2022",
+    date: "2022-07-06",
     item_name: "Uber-eats",
     amount: 60,
     from: "Uber-eats",
@@ -19,7 +19,7 @@ module.exports = [
 
   {
     id: "",
-    date: "02-06-2022",
+    date: "2022-02-08",
     item_name: "KungFu Tea",
     amount: 20,
     from: "KungFu Tea",
@@ -28,7 +28,7 @@ module.exports = [
 
   {
     id: "",
-    date: "01-16-2022",
+    date: "2022-01-16",
     item_name: "grocery",
     amount: -1000,
     from: "Credit Card",
@@ -37,7 +37,7 @@ module.exports = [
 
   {
     id: "",
-    date: "07-1-2022",
+    date: "2022-07-10",
     item_name: "saving",
     amount: 4000,
     from: "income",
@@ -46,7 +46,7 @@ module.exports = [
 
   {
     id: "",
-    date: "09-1-2022",
+    date: "2022-09-01",
     item_name: "Pay-check",
     amount: 5000,
     from: "employer",
@@ -54,7 +54,7 @@ module.exports = [
   },
   {
     id: "",
-    date: "04-1-2022",
+    date: "2022-04-15",
     item_name: "Zara",
     amount: -800,
     from: "Credit card",
