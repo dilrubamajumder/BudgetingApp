@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: "",
-    date: "2022=03-07",
+    date: "2022-03-07",
     item_name: "Cash-App",
     amount: 700,
     from: "Business",
